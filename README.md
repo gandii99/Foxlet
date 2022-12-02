@@ -6,7 +6,6 @@ działalności outletowej
 ## Diagram ERD
 
 [Diagram](https://ibb.co/s9PCS2c)
-![Skan_20221129 (2)](https://user-images.githubusercontent.com/79333728/205371691-1259d602-b680-4e61-b184-d85fd4fba3db.jpg)
 
 
 ## Opis teoretyczny funkcjonalności
