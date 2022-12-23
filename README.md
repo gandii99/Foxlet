@@ -4,10 +4,10 @@ Zaprojektowanie i wykonanie serwisu wspomagającego prowadzenie
 działalności outletowej
 
 ## Diagram ERD
-![FoxletDatabaseDiagram_V4_URBAN_RADOSLAW](https://user-images.githubusercontent.com/79333728/205398852-ae44794e-7aa6-49c8-a37f-7401c6fd3547.jpg)
+[FoxletDatabaseDiagram_FINAL_URBAN_RADOSLAW.pdf](https://github.com/gandii99/Foxlet/files/10296022/FoxletDatabaseDiagram_FINAL_URBAN_RADOSLAW.pdf)
 
 ## Diagram Implementacyjny
-![FoxletDatabaseDiagram_imp_V1_URBAN_RADOSLAW (1)](https://user-images.githubusercontent.com/79333728/205399166-96254fb6-0145-4efb-a685-4ddb839de8ec.jpg)
+[FoxletDatabaseDiagram_imp_FINAL_URBAN_RADOSLAW.pdf](https://github.com/gandii99/Foxlet/files/10296019/FoxletDatabaseDiagram_imp_FINAL_URBAN_RADOSLAW.pdf)
 
 
 ## Opis teoretyczny funkcjonalności
