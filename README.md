@@ -8,7 +8,8 @@ działalności outletowej
 
 
 ## Diagram Implementacyjny
-[FoxletDatabaseDiagram_imp_FINAL_URBAN_RADOSLAW.pdf](https://github.com/gandii99/Foxlet/files/10296019/FoxletDatabaseDiagram_imp_FINAL_URBAN_RADOSLAW.pdf)
+![FoxletDatabaseDiagram_imp_FINAL_URBAN_RADOSLAW-1](https://user-images.githubusercontent.com/79333728/209366144-d58a8ce1-0f2e-49d7-bad8-8c474df3b354.jpg)
+
 
 
 ## Opis teoretyczny funkcjonalności
