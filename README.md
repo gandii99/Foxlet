@@ -31,6 +31,9 @@ Główne korzyści jakie wnosi aplikacja to:
 - weryfikacja opłacalności danych dostawców / produktów
 - zbieranie wszystkich danych w jednym miejscu
 
+## Dokumentacja w OpenAPI
+  https://app.swaggerhub.com/apis-docs/T4351/foxlet-server-api/1.0.0
+
 
 ## Skład zespołu
 
