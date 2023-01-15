@@ -40,14 +40,14 @@ Główne korzyści jakie wnosi aplikacja to:
 https://github.com/gandii99/foxlet-server
 
 uruchomienie aplikacji serwerowej:
-- npm run start:nodemon
+- `npm run start:nodemon`
 
 
 ## Aplikacja serwerowa - testy
 https://github.com/gandii99/foxlet-server/tree/main/test
 
 uruchomienie testów aplikacji serwerowej:
-- npm run test:unit
+- `npm run test:unit`
 
 
 
@@ -55,14 +55,14 @@ uruchomienie testów aplikacji serwerowej:
 https://github.com/gandii99/foxlet-client
 
 uruchomienie aplikacji klienckiej:
-- npm install
-- npm run start
+- `npm install`
+- `npm run start`
 
 ## Aplikacja kliencka - testy
 https://github.com/gandii99/foxlet-client/tree/main/cypress/e2e
 
 uruchomienie testów:
-- npx cypress open
+- `npx cypress open`
 
 
 ## Skład zespołu
